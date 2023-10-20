@@ -1,0 +1,37 @@
+{
+    "name": "Charlie Kopek #6",
+    "symbol": "CK",
+    "description": "Charlie Kopek is a collection of some Rare & Mature Dogs. It is an idea of 15 Year old boy each and every layer is designed separately and then a collection is randomly generated. By owning one, you will be part of a long-term vision, movement, brand and community. The future of these Dogs is in the hands of the owners \u00e2\u20ac\u201c the community will determine the future!",
+    "image": "6.png",
+     
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green & Blue"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Charlie Kopek"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Office Glasses"
+        },
+        {
+            "trait_type": "Caps",
+            "value": "Classic Cap"
+        },
+        {
+            "trait_type": "Shirts",
+            "value": "Colorful Coat"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
